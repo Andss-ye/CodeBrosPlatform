@@ -61,7 +61,7 @@ CodeBrosPlatform/
 │   └── lib/            # Utilities
 ├── server/             # Express backend
 ├── shared/             # Shared types & schemas
-└── dev.bat            # Windows dev script
+└── dev.bat            # Windows dev scripttt
 ```
 
 ## 🌟 Features
